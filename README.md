@@ -21,6 +21,13 @@ I can see the interface between humans and systems, not just existing deployment
 
 ## Projects
 
+### [Mechanical Orchard](https://www.mechanical-orchard.com/) - Safe software modernization
+
+- Platform for modernizing software systems, including
+  - measuring "what a legacy system does"
+  - asserting "the candidate wanted to do the same thing that the legacy system did"
+  - help implementing the candidate system
+
 ### [Thrive Bioscience](https://www.thrivebio.com/) - Cell biology processes platform
 
 - Integrated experimentation strategy into the information architecture of the application
