@@ -4,3 +4,6 @@ Post ideas:
 2. Faster feedback loops with local oracles
 3. Optimistic updates for the pessimistic programmer
 4. Link to an interactive visualization of operational transform?
+
+
+And I really want to learn about stacked PRs
